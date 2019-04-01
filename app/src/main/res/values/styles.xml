@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="btn_news" >
+        <item name="android:background">@drawable/btn_news</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="btn_notices" >
+        <item name="android:background">@drawable/btn_notices</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="btn_media" >
+        <item name="android:background">@drawable/btn_media</item>
+        <item name="android:layout_marginLeft">20dp</item>
+    </style>
+    <style name="btn_study" >
+        <item name="android:background">@drawable/btn_study</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="btn_pre">
+        <item name="android:background">@drawable/btn_pre</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+    <style name="btn_next">
+        <item name="android:background">@drawable/btn_pre</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+</resources>
